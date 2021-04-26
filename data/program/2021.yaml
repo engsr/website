@@ -136,6 +136,9 @@ events:
   Id: 22
   Kartlink: ""
   Description: "starter (16:30-18)"
+  Evenemang:
+    Bild: images/Larsmo_logo.png
+    Link: https://www.larsmo.fi/
 - Plats: Bergö 
   Club: Falken 
   Datum: 15-19.9
