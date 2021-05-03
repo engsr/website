@@ -4,7 +4,7 @@ Title: "Ohjelma 2021"
 
 Rastijahti 2021
 
-Nämä ohjeet pätevät poikkeustilan aikana 14.4.2021-2.5.2021 ja palaamme normaaliin tapaan, kun olosuhteet antavat myöten. Tarvittaessa jatketaan tätä toimintaa tämänkin ajan jälkeen, tästä kuitenkin ilmoitetaan erikseen. 
+Nämä ohjeet pätevät poikkeustilan aikana 14.4.2021-16.5.2021 ja palaamme normaaliin tapaan, kun olosuhteet antavat myöten. Tarvittaessa jatketaan tätä toimintaa tämänkin ajan jälkeen, tästä kuitenkin ilmoitetaan erikseen. 
 
 Järjestäjät 
 IF Brahe, IK Falken, IF Minken ja Pietarsaaren Hiihtäjät. 
