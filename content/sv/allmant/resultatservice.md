@@ -7,7 +7,7 @@ menu:
 ---
 
 ## Självservice - Allmänna direktiv
-Dessa direktiv gäller för motionsorientering enligt självservice 14.4.2021 - 2.5.2021, och vi återgår till normalt förfarande när läget tillåter. Vid behov fortsätter detta förfarande, men om detta meddelas separat. 
+Dessa direktiv gäller för motionsorientering enligt självservice 14.4.2021 - 16.5.2021, och vi återgår till normalt förfarande när läget tillåter. Vid behov fortsätter detta förfarande, men om detta meddelas separat. 
 
 Arrangörer
 
