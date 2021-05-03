@@ -8,7 +8,9 @@ events:
   Evenemang:
     Link: "http://www.conalin.com/"
     Bild: "images/Conalincars.jpg"
-  Description: "Är detta övrigt?"
+  Description: 
+    Link: "http://www.conalin.com/"
+    Bild: "images/Conalincars.jpg"
 - Plats: Sisbacka
   Club: Falken
   Datum: 21-25.4
