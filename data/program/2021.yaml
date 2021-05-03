@@ -24,7 +24,7 @@ events:
   Club: Brahe 
   Datum: 5-9.5
   Id: 4
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7067428.4533887375&e=279909.83050785004&title=SJ/RJ%205.-9.5.&desc=Kartor/kartat&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Handelsbanken_logo.png
     Link: https://www.handelsbanken.fi/sv/hitta-bankkontor/jakobstad
