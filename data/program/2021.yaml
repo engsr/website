@@ -87,6 +87,8 @@ events:
   Id: 13
   Kartlink: ""
   Evenemang:
+    Bild: images/Hartman_logo.png
+    Link: https://www.hartman.fi/sv/
 - Plats: Ådö
   Club: Brahe 
   Datum: 14-18.7 
@@ -125,6 +127,9 @@ events:
   Datum: 25-29.8 
   Id: 20
   Kartlink: ""
+  Evenemang:
+    Bild: images/JNT_logo.png
+    Link: https://www.jnt.fi
 - Plats: Monå
   Club: Minken 
   Datum: 1-5.9 
