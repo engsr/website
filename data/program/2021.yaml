@@ -33,12 +33,13 @@ events:
   Datum: 12-16.5 
   Id: 5
   Kartlink: "https://app.karttaselain.fi/map/2YXYCKfVmjzfgVm"
-  Description: "kartor/kartat"
+  Description: ""
 - Plats: Fränsviken, Eugmo
   Club: Brahe 
   Datum: 19-23.5
   Id: 6
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7085517.45204818&e=292368.1951806724&title=SJ/RJ%2019.-23.5.2021&desc=sj%C3%A4lvservice,%20omatoimi&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
+  Description: "kartor/kartat"
   Evenemang:
     Bild: images/Nynas_logo.png
     Link: http://www.byggnadsnynas.fi/sv
