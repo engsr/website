@@ -48,6 +48,7 @@ events:
   Datum: 26-30.5
   Id: 7
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7063982.999999998&e=278046.99999999994&title=SJ/RJ%2026.-30.5.&desc=kartor/kartat&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
+  Description: "Kartlåda vid lägergårdens P / karttalaatikko leiritalon P-paikalla"
   Evenemang:
     Bild: images/JAKE_logo.png
     Link: https://www.jakerakennus.fi/sv/framsida/
