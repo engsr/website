@@ -1,4 +1,4 @@
-baseURL = "http://skarmjakten.fi/"
+baseURL = "https://skarmjakten.fi/"
 languageCode = "sv"
 defaultContentLanguage = "sv"
 title = "Skärmjakten"
