@@ -54,9 +54,10 @@ events:
     Link: https://www.jakerakennus.fi/sv/framsida/
 - Plats: Sundby
   Club: Falken 
-  Datum: 2-6.6 
+  Datum: 2-6.6
+  Description: "Tidtagnig 2.6 kl. 17-19"
   Id: 8
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7058957.213361533&e=286239.71932741324&title=SJ%20/%20RJ%202.6-6.6&desc=&zoom=11&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Vexala 
   Club: Minken
   Datum: 9-13.6
