@@ -55,20 +55,21 @@ events:
 - Plats: Sundby
   Club: Falken 
   Datum: 2-6.6
-  Description: "Tidtagnig 2.6 kl. 17-19"
+  Description: "Tidtagning 2.6 kl. 17-19"
   Id: 8
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7058957.213361533&e=286239.71932741324&title=SJ%20/%20RJ%202.6-6.6&desc=&zoom=11&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Vexala 
   Club: Minken
   Datum: 9-13.6
-  Description: "Tidtagnig 9.6 kl. 17-19"
+  Description: "Tidtagning 9.6 kl. 17-19"
   Id: 9
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7051842.962367688&e=268248.02491426613&title=SJ/RJ%209-13.6%20v%C3%A4gvisning/opastus&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Bosund 
   Club: Brahe 
-  Datum: 16-20.6 
+  Datum: 16-20.6
+  Description: "Tidtagning 16.6 kl. 17-19"
   Id: 10
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7084159.608001213&e=294419.1725640826&title=SJ/RJ%2016.-20.6.&desc=P%20+%20kartor/kartat&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Link: https://www.balticyachts.fi/
     Bild: images/BY.png
