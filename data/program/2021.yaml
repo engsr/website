@@ -76,8 +76,9 @@ events:
 - Plats:  Lussilundsvägen
   Club: Brahe
   Datum: 23-27.6 
+  Description: "Tidtagning 23.6 kl. 17-19"
   Id: 11
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7065414.332763668&e=284565.000366211&title=SJ/RJ%2023.-27.6.&desc=P%20+%20kartor/kartat&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/NCE_logo.png
     Link: https://nce.fi/sv/
