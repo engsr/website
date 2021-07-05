@@ -102,6 +102,9 @@ events:
   Datum: 14-18.7 
   Id: 14
   Kartlink: ""
+  Evenemang:
+    Bild: images/JBB_logo.png
+    Link: https://www.jbb.fi/
 - Plats: Ransvik 
   Club: Minken 
   Datum: 21-25.7 
