@@ -102,7 +102,7 @@ events:
   Datum: 14-18.7 
   Description: "Tidtagning 14.7 kl. 17-19"
   Id: 14
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7073334.312499998&e=284153.6459960937&title=SJ/RJ%2014.-18.7.&desc=kartor/kartat%20+%20P&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/JBB_logo.png
     Link: https://www.jbb.fi/
