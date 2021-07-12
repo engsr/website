@@ -91,7 +91,7 @@ events:
 - Plats: Östanpå 
   Club: Brahe 
   Datum: 7-11.7 
-  Description: "Kartlådan finns på skolans bakvägg / Karttalaatikko koulun takaseinällä"
+  Description: ""
   Id: 13
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7069136.138589343&e=288905.37547136965&title=SJ/RJ%207.-11.7.&desc=&zoom=11&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
