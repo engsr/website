@@ -108,9 +108,10 @@ events:
     Link: https://www.jbb.fi/
 - Plats: Ransvik 
   Club: Minken 
-  Datum: 21-25.7 
+  Datum: 21-25.7
+  Description: "Tidtagning 21.7 kl. 17-19"
   Id: 15
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7053797.351201861&e=279914.788707807&title=SJ/RJ%2021-25.7&desc=kartor/kartat%0AParkering/parkki&zoom=8&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Sandåsen 
   Club: Brahe 
   Datum: 28.7-1.8 
