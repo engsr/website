@@ -55,19 +55,19 @@ events:
 - Plats: Sundby
   Club: Falken 
   Datum: 2-6.6
-  Description: "Tidtagning 2.6 kl. 17-19"
+  Description: ""
   Id: 8
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7058957.213361533&e=286239.71932741324&title=SJ%20/%20RJ%202.6-6.6&desc=&zoom=11&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Vexala 
   Club: Minken
   Datum: 9-13.6
-  Description: "Tidtagning 9.6 kl. 17-19"
+  Description: ""
   Id: 9
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7051842.962367688&e=268248.02491426613&title=SJ/RJ%209-13.6%20v%C3%A4gvisning/opastus&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Bosund 
   Club: Brahe 
   Datum: 16-20.6
-  Description: "Tidtagning 16.6 kl. 17-19"
+  Description: ""
   Id: 10
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7084159.608001213&e=294419.1725640826&title=SJ/RJ%2016.-20.6.&desc=P%20+%20kartor/kartat&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
@@ -76,7 +76,7 @@ events:
 - Plats:  Lussilundsvägen
   Club: Brahe
   Datum: 23-27.6 
-  Description: "Tidtagning 23.6 kl. 17-19"
+  Description: ""
   Id: 11
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7065414.332763668&e=284565.000366211&title=SJ/RJ%2023.-27.6.&desc=P%20+%20kartor/kartat&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
@@ -85,7 +85,7 @@ events:
 - Plats: Forsby
   Club: Falken 
   Datum: 30.6-4.7 
-  Description: "OBS 1-4.7 Parkera vid stockhopen. Lastbilar trafikerar längs vägen! Från lördag kl 12:00 är kartlådan kompletterad."
+  Description: ""
   Id: 12
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7057711.584285566&e=293172.984785335&title=Sj%20/%20Rj%2030.6&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Östanpå 
@@ -100,7 +100,7 @@ events:
 - Plats: Ådö
   Club: Brahe 
   Datum: 14-18.7 
-  Description: "Tidtagning 14.7 kl. 17-19"
+  Description: ""
   Id: 14
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7073334.312499998&e=284153.6459960937&title=SJ/RJ%2014.-18.7.&desc=kartor/kartat%20+%20P&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
@@ -115,8 +115,9 @@ events:
 - Plats: Sandåsen 
   Club: Brahe 
   Datum: 28.7-1.8 
+  Description: "Tidtagning 28.7 kl. 17-19."
   Id: 16
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7062308.333251949&e=285846.3544921875&title=SJ/RJ%2028.7.-1.8.&desc=kartor/kartat%20+%20P&zoom=8&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Bjh_logo.png
     Link: http://bjh.fi
