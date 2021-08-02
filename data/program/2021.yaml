@@ -125,7 +125,8 @@ events:
   Club: Falken 
   Datum: 4-8.8
   Id: 17
-  Kartlink: ""
+  Description: "Vägvisning 2km mot Lappfors från Esse. Tidtagning 4.8 kl 17-19"
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7055188.080145892&e=306482.3588321764&title=Sk%C3%A4rmjakten%204.8-8.8&desc=4.8%20TC%0A5-8.8%20Sj%C3%A4lvservice%20kartor&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Ruusulehto 
   Club: Piehi 
   Datum: 11-15.8 
