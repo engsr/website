@@ -109,13 +109,13 @@ events:
 - Plats: Ransvik 
   Club: Minken 
   Datum: 21-25.7
-  Description: "Tidtagning 21.7 kl. 17-19.Suunnistajan kauppa på plats/paikalla"
+  Description: ""
   Id: 15
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7053797.351201861&e=279914.788707807&title=SJ/RJ%2021-25.7&desc=kartor/kartat%0AParkering/parkki&zoom=8&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Sandåsen 
   Club: Brahe 
   Datum: 28.7-1.8 
-  Description: "Tidtagning 28.7 kl. 17-19."
+  Description: ""
   Id: 16
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7062308.333251949&e=285846.3544921875&title=SJ/RJ%2028.7.-1.8.&desc=kartor/kartat%20+%20P&zoom=8&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
@@ -125,7 +125,7 @@ events:
   Club: Falken 
   Datum: 4-8.8
   Id: 17
-  Description: "Vägvisning 2km mot Lappfors från Esse. Tidtagning 4.8 kl 17-19"
+  Description: ""
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7055188.080145892&e=306482.3588321764&title=Sk%C3%A4rmjakten%204.8-8.8&desc=4.8%20TC%0A5-8.8%20Sj%C3%A4lvservice%20kartor&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Ruusulehto 
   Club: Piehi 
