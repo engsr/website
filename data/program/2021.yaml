@@ -137,7 +137,8 @@ events:
   Club: Minken
   Datum: 18-22.8 
   Id: 19
-  Kartlink: ""
+  Description: "Tidtagning/ajanotto 18.8 kl 17-19"
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7051674&e=279292.99999999994&title=SJ/RJ%2018-22.8&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Vallan 
   Club: Brahe 
   Datum: 25-29.8 
