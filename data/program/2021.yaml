@@ -131,7 +131,7 @@ events:
   Club: Piehi 
   Datum: 11-15.8 
   Id: 18
-  Description: "Tidtagning/ajanotto 11.8 kl 17-19"
+  Description: ""
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7067139.05754067&e=289424.5843309306&title=SJ/RJ%2011.-15.08.&desc=P%20+%20kartor/kartat&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Nurk 
   Club: Minken
@@ -143,6 +143,7 @@ events:
   Club: Brahe 
   Datum: 25-29.8 
   Id: 20
+  Description: "Tidtagning/ajanotto 25.8 kl 17-19"
   Kartlink: ""
   Evenemang:
     Bild: images/JNT_logo.png
