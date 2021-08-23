@@ -144,7 +144,7 @@ events:
   Datum: 25-29.8 
   Id: 20
   Description: "Tidtagning/ajanotto 25.8 kl 17-19"
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7065724.0054845475&e=282737.6739793916&title=SJ/RJ%2025.-29.8.&desc=P%20+%20kartor/kartat&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/JNT_logo.png
     Link: https://www.jnt.fi
