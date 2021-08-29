@@ -152,7 +152,8 @@ events:
   Club: Minken 
   Datum: 1-5.9 
   Id: 21
-  Kartlink: ""
+  Description: "Tidtagning/ajanotto 1.9 kl 17-19"
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7036504.333999994&e=268899.4160000002&title=Sk%C3%A4rmjakten%201-5.9.2021&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Larsmo sp.st.
   Club: Brahe 
   Datum: 8-12-9 
