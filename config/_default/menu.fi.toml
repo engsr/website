@@ -5,6 +5,12 @@ identifier = "program"
 url = "/fi/program/"
 
 [[main]]
+name = "Muut"
+weight = 35
+identifier = "other"
+url = "/fi/other/"
+
+[[main]]
 name = "Tulosarkisto"
 weight = 40
 identifier = "arkiv"

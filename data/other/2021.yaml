@@ -1,0 +1,18 @@
+year: "2021"
+events:
+- Plats: Larsmo sportstuga
+  Id: 1
+  Datum: 7.9
+  Club: Brahe
+  Kartlink: 
+  Description: ""
+- Plats: Bergö
+  Club: Falken
+  Datum: 14.9
+  Id: 2
+- Plats: Öja
+  Club: GIF
+  Datum: 21.9
+  Id: 3
+  Kartlink: 
+  Description: ""

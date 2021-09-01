@@ -5,6 +5,12 @@ identifier = "program"
 url = "/program/"
 
 [[main]]
+name = "Övriga"
+weight = 35
+identifier = "other"
+url = "/other/"
+
+[[main]]
 name = "Resultat"
 weight = 40
 identifier = "arkiv"
