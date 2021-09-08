@@ -3,7 +3,7 @@ title: "Extra arrangemang"
 type: page
 ---
 
-Nattcup Pistetilanne/Poängställning
+Nattcup poängställning
 https://docs.google.com/spreadsheets/d/1SnUG5NLbc6CHLxvf3p4FTsCthWZZ1PH0ISq6ty-Ajt4/edit?usp=sharing 
 
 
