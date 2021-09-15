@@ -168,7 +168,7 @@ events:
   Club: Falken 
   Datum: 15-19.9
   Id: 23
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7085225.520812986&e=298587.7917480468&title=Nattcup%203/%20Y%C3%B6cup%203&desc=TC/kilp.keskus&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Description: "starter (16:30-18)"
 - Plats: Degernäs
   Club: Brahe 
