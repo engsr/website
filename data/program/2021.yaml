@@ -174,7 +174,7 @@ events:
   Club: Brahe 
   Datum: 22-26.9 
   Id: 24
-  Kartlink: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7062058.9334225105&e=282008.07653210755&title=SJ/RJ%2022.-26.9.&desc=P%20+%20kartor/kartat&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Description: "starter (16:30-18). Klubbmästerskap"
   Evenemang:
     Bild: images/Amada_logo.png
