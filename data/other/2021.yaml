@@ -9,7 +9,7 @@ events:
 - Plats: Bergö
   Club: Falken
   Datum: 14.9
-  Description: "start/lähtö 21-22"
+  Description: ""
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7064163.30244342&e=293073.90011973266&title=Sk%C3%A4rjakten%20/%20Rastijahti%2015-19.9&desc=&zoom=12&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Id: 2
 - Plats: Öja
@@ -17,11 +17,11 @@ events:
   Datum: 21.9
   Id: 3
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7085225.520812986&e=298587.7917480468&title=Nattcup%203/%20Y%C3%B6cup%203&desc=TC/kilp.keskus&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
-  Description: "vid Öja Skola/Byagård, start/lähdöt kl. 20:00 - 20:45"
-- Plats: Trullevi
+  Description: ""
+- Plats: Trullevi, resultat
   Id: 4
   Datum: 28.9
   Club: KoS
-  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7092754.564085481&e=307898.3082574131&title=NC/y%C3%B6cup%204.&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
-  Description: "start/lähdöt klo 19:45-20:45"
+  Kartlink: "https://navisport.fi/events/83479a13-ff91-45ff-941f-a0a18e007a72"
+  Description: ""
 
