@@ -1,18 +1,18 @@
 year: "2019"
 events:
-- Plats: -
+- Plats: ""
   Id: 1
   Datum: 5.9
   Club: -
   Description: ""
 - Plats: Sandhagen
-  Club: - 
+  Club: ""
   Datum: 10.9
   Description: ""
   Kartlink: 
   Id: 2
-- Plats: -
-  Club: - 
+- Plats: ""
+  Club: ""
   Datum: 17.9
   Id: 3
   Description: ""
