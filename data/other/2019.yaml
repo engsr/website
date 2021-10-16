@@ -3,7 +3,7 @@ events:
 - Plats: ""
   Id: 1
   Datum: 5.9
-  Club: -
+  Club: ""
   Description: ""
 - Plats: Sandhagen
   Club: ""
