@@ -8,7 +8,7 @@ url = "/program/"
 name = "Övriga"
 weight = 35
 identifier = "other"
-url = "/other/"
+url = "/other/_index.md"
 
 [[main]]
 name = "Resultat"
