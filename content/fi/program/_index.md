@@ -40,4 +40,5 @@ Erillisiä tuloslistoja ei julkaista omatoimijärjestelyissä.
 
 HUOM!  yhteinen pankkitilinro, tili FI10 5567 0720 1925 11 
 
-{{< partial "2022" >}}
+
+{{< program "2022" >}}
