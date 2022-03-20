@@ -1,10 +1,8 @@
 --- 
-Title: "Ohjelma 2021"
+Title: "Ohjelma 2022"
 ---
 
-Rastijahti 2021
-
-Nämä ohjeet pätevät poikkeustilan aikana 14.4.2021-16.5.2021 ja palaamme normaaliin tapaan, kun olosuhteet antavat myöten. Tarvittaessa jatketaan tätä toimintaa tämänkin ajan jälkeen, tästä kuitenkin ilmoitetaan erikseen. 
+Rastijahti 2022
 
 Järjestäjät 
 IF Brahe, IK Falken, IF Minken ja Pietarsaaren Hiihtäjät. 
@@ -26,7 +24,6 @@ Tyky, Smartum ja Tyhy (Pietarsaaren seutu ja Optima) setelit eivät valittavasti
 Tässä vaiheessa emme myöskään ota vastaan käteistä. 
 
  
-
 Tiedotus 
 Kaikki tiedotus tapahtuu Rastijahti-sivujen kautta www.skarmjakten.fi 
 
@@ -35,16 +32,12 @@ Seuraa säännöllisesti, koska päivityksiä ja muutoksia saattaa esiintyä.
 Pääsääntöisesti emme tiedota PS:n ja ÖT:n seurapalstojen kautta. 
 
 Yhteystiedot 
-
-
  
 
 Tulokset 
 Erillisiä tuloslistoja ei julkaista omatoimijärjestelyissä.
 
 
-Brahe Vanha Satama 14.-18.4. keskuspaikka venetakkausasemalla [karttalinkki](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7069034.701167223&e=286720.4737607971&title=SJ/RJ%2014.-18.4.&desc=Kartor,%20sj%C3%A4lvservice%20%0AKartat,%20omatoimi&zoom=11&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D) 
-HUOM! Meillä on uusi yhteinen pankkitilinro, tili FI10 5567 0720 1925 11 
+HUOM!  yhteinen pankkitilinro, tili FI10 5567 0720 1925 11 
 
-
-{{< partial "2021" >}}
+{{< partial "2022" >}}

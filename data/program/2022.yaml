@@ -1,0 +1,148 @@
+year: "2022"
+events:
+- Plats: Gamla hamn
+  Id: 1
+  Datum: 13-17.4
+  Club: Brahe
+  Kartlink:
+  Description:
+- Plats: Slätbacka
+  Club: Falken
+  Datum: 20-24.4
+  Id: 2
+  Kartlink:
+- Plats: Baggholmen 
+  Club: Brahe
+  Datum: 27.4-1.5
+  Id: 3
+  Kartlink:
+  Description:
+- Plats: Storsand
+  Club: Brahe 
+  Datum: 4-5.5
+  Id: 4
+  Kartlink:
+  Evenemang:
+    Bild: images/Handelsbanken_logo.png
+    Link: https://www.handelsbanken.fi/sv/hitta-bankkontor/jakobstad
+- Plats: Brännon 
+  Club: Minken
+  Datum: 11-15.5 
+  Id: 5
+  Kartlink:
+  Description:
+- Plats: Långskogen
+  Club: Falken
+  Datum: 18-22.5
+  Id: 6
+  Kartlink:
+  Description:
+- Plats: Fränsviken
+  Club: Brahe 
+  Datum: 25-29.5
+  Id: 7
+  Kartlink:
+  Description:
+- Plats: Lusslundsvägen 
+  Club: Brahe 
+  Datum: 1-5.6
+  Description:
+  Id: 8
+  Kartlink:
+- Plats: Purmo
+  Club: Falken 
+  Datum: 8-12.6
+  Description:
+  Id: 9
+  Kartlink:
+- Plats: Monå
+  Club: Minken 
+  Datum: 15-19.6
+  Description:
+  Id: 10
+  Kartlink:
+- Plats: Långsjön
+  Club: Brahe
+  Datum: 22-26.6 
+  Description:
+  Id: 11
+  Kartlink:
+- Plats: Bergö
+  Club: Falken 
+  Datum: 29.6-3.7 
+  Description:
+  Id: 12
+  Kartlink:
+- Plats: Östanpå 
+  Club: Brahe 
+  Datum: 6-10.7 
+  Description:
+  Id: 13
+  Kartlink:
+- Plats: Ådö
+  Club: Brahe 
+  Datum: 13-17.7 
+  Description:
+  Id: 14
+  Kartlink:
+- Plats: Lepplax 
+  Club: Falken 
+  Datum: 19-24.7
+  Description: Obs! tisdag. Huom tiistai.
+  Id: 15
+  Kartlink:
+- Plats: Andra sjön
+  Club: Minken 
+  Datum: 27.7-31.7
+  Description:
+  Id: 16
+  Kartlink:
+- Plats: Eugmo
+  Club: Brahe 
+  Datum: 3-7.8
+  Id: 17
+  Description:
+  Kartlink:
+- Plats: Ruusulehto 
+  Club: Piehi 
+  Datum: 10-14.8 
+  Id: 18
+  Description:
+  Kartlink:
+- Plats: -
+  Club: Minken
+  Datum: 17-21.8 
+  Id: 19
+  Description:
+  Kartlink:
+- Plats: Vallan 
+  Club: Brahe 
+  Datum: 24-28.8 
+  Id: 20
+  Description:
+  Kartlink:
+- Plats: Degernäs
+  Club: Brahe 
+  Datum: 31-4.9 
+  Id: 21
+  Description:
+  Kartlink:
+- Plats: Stennästräsk
+  Club: Minken 
+  Datum: 7-11.9 
+  Id: 22
+  Description:
+  Kartlink:
+  Description:
+- Plats: Kassnäs
+  Club: Falken 
+  Datum: 14-18.9
+  Id: 23
+  Kartlink:
+  Description:
+- Plats: Degernäs
+  Club: Larsmo sport st.
+  Datum: 21-25.9 
+  Id: 24
+  Kartlink:
+  Description:
