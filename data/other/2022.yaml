@@ -1,0 +1,26 @@
+year: "2022"
+events:
+- Plats: Stennästräsk
+  Id: 1
+  Datum: 6.9
+  Club: Minken 
+  Kartlink: 
+  Description: ""
+- Plats: Gråstein
+  Club: Botnia 
+  Datum: 13.9
+  Description: ""
+  Kartlink: id
+  Id: 2
+- Plats: Rönnbacken
+  Club: Kronan 
+  Datum: 20.9
+  Id: 3
+  Kartlink: 
+  Description: ""
+- Plats: Trullevi
+  Id: 4
+  Datum: 27.9
+  Club: KoS
+  Kartlink: 
+  Description: ""
