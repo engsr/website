@@ -29,8 +29,8 @@ events:
   Id: 4
   Kartlink:
   Evenemang:
-    Bild: images/Handelsbanken_logo.png
-    Link: https://www.handelsbanken.fi/sv/hitta-bankkontor/jakobstad
+    Bild:
+    Link:
 - Plats: Brännon 
   Club: Minken
   Datum: 11-15.5 
@@ -55,6 +55,9 @@ events:
   Description:
   Id: 8
   Kartlink:
+  Evenemang:
+    Bild: images/JAKE_logo.png
+    Link: https://www.jakerakennus.fi/sv/framsida/
 - Plats: Purmo
   Club: Falken 
   Datum: 8-12.6
