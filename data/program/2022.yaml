@@ -19,6 +19,9 @@ events:
   Datum: 27.4-1.5
   Id: 3
   Kartlink:
+  Evenemang:
+    Bild: images/Bjh_logo.png
+    Link: https://www.bjh.fi
   Description:
 - Plats: Storsand
   Club: Brahe 
