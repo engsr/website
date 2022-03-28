@@ -115,6 +115,9 @@ events:
   Id: 17
   Description:
   Kartlink:
+  Evenemang:
+    Bild: images/Nynas_logo.png
+    Link: http://www.byggnadsnynas.fi/sv
 - Plats: Ruusulehto 
   Club: Piehi 
   Datum: 10-14.8 
