@@ -5,6 +5,9 @@ events:
   Datum: 13-17.4
   Club: Brahe
   Kartlink:
+  Evenemang:
+    Bild: images/Conalincars.jpg
+    Link: https://www.conalin.com
   Description:
 - Plats: Slätbacka
   Club: Falken
