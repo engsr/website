@@ -138,10 +138,13 @@ events:
   Kartlink:
 - Plats: Degernäs
   Club: Brahe 
-  Datum: 31-4.9 
+  Datum: 31.8-4.9 
   Id: 21
   Description:
   Kartlink:
+  Evenemang:
+    Bild: images/Nynas_logo.png
+    Link: http://www.byggnadsnynas.fi/sv
 - Plats: Stennästräsk
   Club: Minken 
   Datum: 7-11.9 
