@@ -41,3 +41,7 @@ IF Brahe    Mattias Gripenberg  0400 912 792
 IK Falken   Niklas Wik          050 4872 503  
 PieHi       Tuomo Kujala        040 849 9753  
 IF Minken   Sören Strandvall    050 356 0969  
+
+# Resultat
+På onsdagskvällarna på denna sida.
+Inga resultatlistor från självservicen.
