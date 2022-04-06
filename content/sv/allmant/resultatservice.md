@@ -13,7 +13,7 @@ IF Brahe, IK Falken, IF Minken och Pietarsaaren Hiihtäjät.
 
 Banor
 
-A 6-7 km, C 4 km (lätt) och E 1,5 km (mycket lätt).
+A 6-7 km, B 5 km, C 4 km (lätt), D 3 km (lätt) och E 1,5 km (mycket lätt).
 
 Tävlingssätt 
 
