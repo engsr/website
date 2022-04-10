@@ -4,7 +4,7 @@ events:
   Id: 1
   Datum: 13-17.4
   Club: Brahe
-  Kartlink:
+  Kartlink: https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7069010.609362338&e=286774.8635062013&title=SJ/RJ%2013.-17.4.2022&desc=TC/Kilpailukeskus&zoom=11&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D
   Evenemang:
     Bild: images/Conalincars.jpg
     Link: https://www.conalin.com
