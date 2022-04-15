@@ -26,7 +26,8 @@ Onsdagar med tidtagning, självservice torsdag till söndag kväll kl 19. Observ
 
 Över 16 år 6 €/gång. På onsdagsevenemangen på plats (kontant, Mobilepay, E-passi, Smartum).
 Självservice: Till Skärmjaktens gemensamma bankkonto, FI10 5567 0720 1925 11. Vänligen använd referens 2202 (för Brahes arr), 3311 (Falken), 4433 (Minken) och 5005 (PieHi). E-passis Sporttipassi (mobilbetalning via app) kan användas. Sök upp "Skärmjakten/Rastijahti (59026)", följ anvisningarna och gör betalningen. 
-Tyky-, Smartum och Tyhy (Jakobstadsnejden och Optima) motionssedlar går tyvärr inte att använda för självservice. 
+Tyky-, Smartum och Tyhy (Jakobstadsnejden och Optima) motionssedlar går tyvärr inte att använda för självservice.
+Nyhet: För IF Brahes arrangemang kan även Mobilepay användas, sänd till kod "64057".
 
 # Info 
 
