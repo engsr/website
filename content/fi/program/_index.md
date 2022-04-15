@@ -23,6 +23,7 @@ Yli 16 vuotiaat 6 €/kerta. Keskiviikkoisin suoraan tapahtumapaikalla (kätei
 Omatoimi: Rastijahdin yhteiselle pankkitilille, FI10 5567 0720 1925 11. Käytäthän viitteeksi 2202 (Brahen järj.), 3311 (Falken), 4433 (Minken) ja 5005 (PieHi). 
 E-passin Sporttipassi (mobiilimaksu sovelluksella) on käytössä. Hae "Skärmjakten/Rastijahti (59026)", seuraa ohjeita ja tee maksu. 
 Tyky, Smartum ja Tyhy (Pietarsaaren seutu ja Optima) setelit eivät valittavasti käy omatoimirasteilla.
+Uutuus: IF Brahen järjestelyissä voit käyttää Mobilepayta, lähetys numeroon "64057".
 
 # Tiedotus 
 Kaikki tiedotus tapahtuu Rastijahti-sivujen kautta www.skarmjakten.fi 
