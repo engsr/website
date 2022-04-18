@@ -48,6 +48,10 @@ events:
   Datum: 25-29.5
   Id: 7
   Kartlink:
+  Evenemang:
+    Bild: images/BY.png
+    Link: https://www.balticyachts.fi
+
   Description:
 - Plats: Lusslundsvägen 
   Club: Brahe 
