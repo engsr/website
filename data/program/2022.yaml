@@ -167,4 +167,7 @@ events:
   Datum: 21-25.9 
   Id: 24
   Kartlink:
+  Evenemang:
+    Bild: images/Larsmo_logo.png
+    Link: https://www.larsmo.fi
   Description:
