@@ -13,7 +13,7 @@ events:
   Club: Falken
   Datum: 20-24.4
   Id: 2
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7053983.147854227&e=296689.43488881126&title=Sk%C3%A4rmjakten%20sl%C3%A4tbacka&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Baggholmen 
   Club: Brahe
   Datum: 27.4-1.5
