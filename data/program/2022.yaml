@@ -18,11 +18,11 @@ events:
   Club: Brahe
   Datum: 27.4-1.5
   Id: 3
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7066820.508898446&e=286702.6602920334&title=SJ/RJ%2027.4.-1.5.&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Bjh_logo.png
     Link: https://www.bjh.fi
-  Description:
+  Description: A+B karta A3!
 - Plats: Storsand
   Club: Brahe 
   Datum: 4-5.5
