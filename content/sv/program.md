@@ -20,7 +20,7 @@ A 6-7 km, B 5 km, C 4 km (lätt), D 3 km (lätt) och E 1,5 km (mycket lätt).
 
 # Tidpunkt 
 
-Onsdagar med tidtagning, självservice torsdag till söndag kväll kl 19. Observera att delta ansvarsfullt; kom inte med om du är sjuk, vi respekterar riskgrupperna och håller god handhygien.
+Onsdagar kl 17-19 med tidtagning, självservice torsdag till söndag kväll kl 19. Observera att delta ansvarsfullt; kom inte med om du är sjuk, vi respekterar riskgrupperna och håller god handhygien.
 
 # Avgift 
 
