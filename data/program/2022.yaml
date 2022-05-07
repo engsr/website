@@ -80,6 +80,9 @@ events:
   Description:
   Id: 11
   Kartlink:
+   Evenemang:
+    Bild: images/NCE_logo.png
+    Link: https://nce.fi/sv/
 - Plats: Bergö
   Club: Falken 
   Datum: 29.6-3.7 
