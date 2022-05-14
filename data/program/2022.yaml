@@ -96,14 +96,17 @@ events:
   Id: 13
   Kartlink:
   Evenemang:
-    Bild: images/Hartman_logo.png
-    Link: https://www.hartman.fi/sv/
+    Bild: images/jbb_logo.png
+    Link: https://www.jbb.fi/sv/
 - Plats: Ådö
   Club: Brahe 
   Datum: 13-17.7 
   Description:
   Id: 14
   Kartlink:
+  Evenemang:
+    Bild: images/Hartman_logo.png
+    Link: https://www.hartman.fi/sv/
 - Plats: Lepplax 
   Club: Falken 
   Datum: 19-24.7
