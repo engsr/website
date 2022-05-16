@@ -37,12 +37,12 @@ events:
   Id: 5
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7053734.499999999&e=278667.00000000006&title=SJ/RJ%2011-15.5&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Description: Kartskala 1:7500 alla banor
-- Plats: Långskogen
+- Plats: Brännbacka
   Club: Falken
   Datum: 18-22.5
   Id: 6
-  Kartlink:
-  Description:
+  Kartlink: "https://app.karttaselain.fi/map/FH8LrPvZDDKm1vn"
+  Description: "Ekorr start träning kl 18->"
 - Plats: Fränsviken
   Club: Brahe 
   Datum: 25-29.5
