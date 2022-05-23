@@ -47,7 +47,7 @@ events:
   Club: Brahe 
   Datum: 25-29.5
   Id: 7
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7085541.999999997&e=292384.6667480469&title=SJ/RJ%2025.29.5.&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/BY.png
     Link: https://www.balticyachts.fi
