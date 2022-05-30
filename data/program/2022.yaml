@@ -52,13 +52,13 @@ events:
     Bild: images/BY.png
     Link: https://www.balticyachts.fi
 
-  Description: "Postlåda vid första båtskjulet/Karttalaatikko ekan venevajan seinällä"
-- Plats: Lusslundsvägen 
+  Description: 
+- Plats: Lussilundsvägen 
   Club: Brahe 
   Datum: 1-5.6
   Description:
   Id: 8
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7067029.160728815&e=283903.60370126617&title=SJ/RJ%201.-5.6.&desc=opastus,%20v%C3%A4gv.&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/JAKE_logo.png
     Link: https://www.jakerakennus.fi/sv/framsida/
