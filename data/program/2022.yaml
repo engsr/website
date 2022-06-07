@@ -65,9 +65,9 @@ events:
 - Plats: Purmo
   Club: Falken 
   Datum: 8-12.6
-  Description:
+  Description: Vägvisning från Nådjärvägen
   Id: 9
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7049848.008129098&e=302479.494105227&title=Sk%C3%A4rmjakten%20/%20Rastijahti%20&desc=V%C3%A4gvisining%20/%20Opastus%20&zoom=8&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Monå
   Club: Minken 
   Datum: 15-19.6
