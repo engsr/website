@@ -73,7 +73,7 @@ events:
   Datum: 15-19.6
   Description:
   Id: 10
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7035349.087768419&e=269924.3468512197&title=Sk%C3%A4rmjakten%2015-19-6&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Långsjön
   Club: Brahe
   Datum: 22-26.6 
