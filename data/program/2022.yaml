@@ -79,7 +79,7 @@ events:
   Datum: 22-26.6 
   Description:
   Id: 11
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7063863.883817126&e=279764.4766231314&title=SJ/RJ%2022.-26.6&desc=kartor/kartat%20+%20P&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/NCE_logo.png
     Link: https://nce.fi/sv/
@@ -128,7 +128,7 @@ events:
   Evenemang:
     Bild: images/Nynas_logo.png
     Link: http://www.byggnadsnynas.fi/sv
-- Plats: Ruusulehto 
+- Plats: PieHis stuga 
   Club: Piehi 
   Datum: 10-14.8 
   Id: 18
