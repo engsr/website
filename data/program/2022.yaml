@@ -103,7 +103,7 @@ events:
   Datum: 13-17.7 
   Description:
   Id: 14
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7073261&e=284078.9999999997&title=SJ/RJ%2013.-17.7.&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Hartman_logo.png
     Link: https://www.hartman.fi/sv/
