@@ -146,6 +146,9 @@ events:
   Id: 20
   Description:
   Kartlink:
+  Evenemang:
+    Bild: images/NordicLights_Logo.png
+    Link: https://www.nordiclights.com/
 - Plats: Degernäs
   Club: Brahe 
   Datum: 31.8-4.9 
