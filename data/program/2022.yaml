@@ -110,9 +110,9 @@ events:
 - Plats: Lepplax 
   Club: Falken 
   Datum: 19-24.7
-  Description: Obs! tisdag. Huom tiistai.
+  Description: "Obs! tisdag. Huom tiistai. Vägvisning infart till Lepplax från riksväg 8, se kartlänk" 
   Id: 15
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7064577.7958984375&e=298826.59423828125&title=Sk%C3%A4rmjakten%2019-24.7&desc=Start%20/%20L%C3%A4ht%C3%B6&zoom=8&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Andra sjön
   Club: Minken 
   Datum: 27.7-31.7
