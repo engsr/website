@@ -118,7 +118,7 @@ events:
   Datum: 27.7-31.7
   Description:
   Id: 16
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7051394&e=274413.99999999994&title=SJ/RJ%2027-31.7.2022&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Eugmo
   Club: Brahe 
   Datum: 3-7.8
