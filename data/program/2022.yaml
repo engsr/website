@@ -123,8 +123,8 @@ events:
   Club: Brahe 
   Datum: 3-7.8
   Id: 17
-  Description:
-  Kartlink:
+  Description: parkering längs Kärlekavägen, paikoitus Kärlekatien varrella.
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7083531.962109709&e=291905.2411888104&title=SJ-RJ%203.-7.8.&desc=kartor%20och%20TC,%20parkering%20tidigare%20l%C3%A4ngs%20K%C3%A4rlekav%C3%A4gen.%20Kartat%20ja%20kilp.keskus,%20paikoitus%20aikaisemmin%20K%C3%A4rlekatien%20varrella.&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Nynas_logo.png
     Link: http://www.byggnadsnynas.fi/sv
