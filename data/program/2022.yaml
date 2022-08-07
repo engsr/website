@@ -36,13 +36,13 @@ events:
   Datum: 11-15.5 
   Id: 5
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7053734.499999999&e=278667.00000000006&title=SJ/RJ%2011-15.5&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
-  Description: Kartskala 1:7500 alla banor
+  Description:
 - Plats: Brännbacka
   Club: Falken
   Datum: 18-22.5
   Id: 6
   Kartlink: "https://app.karttaselain.fi/map/FH8LrPvZDDKm1vn"
-  Description: "Ekorr start träning kl 18->"
+  Description:
 - Plats: Fränsviken
   Club: Brahe 
   Datum: 25-29.5
@@ -65,13 +65,13 @@ events:
 - Plats: Purmo
   Club: Falken 
   Datum: 8-12.6
-  Description: Vägvisning från Nådjärvägen
+  Description:
   Id: 9
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7049848.008129098&e=302479.494105227&title=Sk%C3%A4rmjakten%20/%20Rastijahti%20&desc=V%C3%A4gvisining%20/%20Opastus%20&zoom=8&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Monå
   Club: Minken 
   Datum: 15-19.6
-  Description: Suunnistajan Kauppa på plats
+  Description:
   Id: 10
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7035349.087768419&e=269924.3468512197&title=Sk%C3%A4rmjakten%2015-19-6&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Långsjön
@@ -123,7 +123,7 @@ events:
   Club: Brahe 
   Datum: 3-7.8
   Id: 17
-  Description: parkering längs Kärlekavägen, paikoitus Kärlekatien varrella. Suunnistajan Kauppa paikalla/på plats.
+  Description: parkering längs Kärlekavägen, paikoitus Kärlekatien varrella.
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7083531.962109709&e=291905.2411888104&title=SJ-RJ%203.-7.8.&desc=kartor%20och%20TC,%20parkering%20tidigare%20l%C3%A4ngs%20K%C3%A4rlekav%C3%A4gen.%20Kartat%20ja%20kilp.keskus,%20paikoitus%20aikaisemmin%20K%C3%A4rlekatien%20varrella.&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Nynas_logo.png
@@ -133,7 +133,7 @@ events:
   Datum: 10-14.8 
   Id: 18
   Description:
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7066337.535773177&e=290163.3664604554&title=SJ/RJ%2010.-14.8.&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Brännon
   Club: Minken
   Datum: 17-21.8 
