@@ -139,7 +139,7 @@ events:
   Datum: 17-21.8 
   Id: 19
   Description:
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7050738.999999998&e=278553&title=SJ%20/%20RJ%2018-21.8.2022&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Vallan 
   Club: Brahe 
   Datum: 24-28.8 
