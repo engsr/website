@@ -110,7 +110,7 @@ events:
 - Plats: Lepplax 
   Club: Falken 
   Datum: 19-24.7
-  Description: "Obs! tisdag. Huom tiistai. Vägvisning infart till Lepplax från riksväg 8, se kartlänk" 
+  Description:  
   Id: 15
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7064577.7958984375&e=298826.59423828125&title=Sk%C3%A4rmjakten%2019-24.7&desc=Start%20/%20L%C3%A4ht%C3%B6&zoom=8&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
 - Plats: Andra sjön
@@ -123,7 +123,7 @@ events:
   Club: Brahe 
   Datum: 3-7.8
   Id: 17
-  Description: parkering längs Kärlekavägen, paikoitus Kärlekatien varrella.
+  Description: 
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7083531.962109709&e=291905.2411888104&title=SJ-RJ%203.-7.8.&desc=kartor%20och%20TC,%20parkering%20tidigare%20l%C3%A4ngs%20K%C3%A4rlekav%C3%A4gen.%20Kartat%20ja%20kilp.keskus,%20paikoitus%20aikaisemmin%20K%C3%A4rlekatien%20varrella.&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Nynas_logo.png
@@ -145,7 +145,7 @@ events:
   Datum: 24-28.8 
   Id: 20
   Description:
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7065719.4192921575&e=282730.3895417559&title=SJ/RJ%2024.-28.8.&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/NordicLights_Logo.png
     Link: https://www.nordiclights.com/
