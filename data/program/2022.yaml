@@ -154,7 +154,7 @@ events:
   Datum: 31.8-4.9 
   Id: 21
   Description:
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7062057.7948009875&e=282004.2340050692&title=SJ/RJ%2031.8.-4.9.&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Amada_logo.png
     Link: http://www.https://amada-automation.eu
