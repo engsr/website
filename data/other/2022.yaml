@@ -4,8 +4,8 @@ events:
   Id: 1
   Datum: 6.9
   Club: Minken 
-  Kartlink:https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7051765.928193358&e=279241.27210696664&title=IF%20Minken%20Nattcup/Y%C3%B6cup%206.9.2022&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D 
-  Description: "Star/lähtö 21:00-21:30"
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7051765.928193358&e=279241.27210696664&title=IF%20Minken%20Nattcup/Y%C3%B6cup%206.9.2022&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D" 
+  Description: Star/lähtö 21:00-21:30
 - Plats: Gråstein
   Club: Botnia 
   Datum: 13.9
