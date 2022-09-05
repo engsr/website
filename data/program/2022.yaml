@@ -163,7 +163,7 @@ events:
   Datum: 7-11.9 
   Id: 22
   Description:
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7051149.150644889&e=279107.45080330415&title=SJ/RJ%20%20%207-11.9.2022&desc=&zoom=11&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Description:
 - Plats: Kassnäs (kl 16:30-18)
   Club: Falken 
