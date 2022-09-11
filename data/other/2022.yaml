@@ -9,8 +9,8 @@ events:
 - Plats: Gråstein
   Club: Botnia 
   Datum: 13.9
-  Description: ""
-  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7067297.552102237&e=316225.3947154826&title=Natt/y%C3%B6%2013.9.&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
+  Description: "Start/lähtö kl 21-22"
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7066587.426625976&e=317047.1156259766&title=Nattcup%2013.9.&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Id: 2
 - Plats: Rönnbacken
   Club: Kronan 
