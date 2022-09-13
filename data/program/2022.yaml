@@ -169,7 +169,7 @@ events:
   Club: Falken 
   Datum: 14-18.9
   Id: 23
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7059080.591407496&e=286073.6336663073&title=Sk%C3%A4rmjakt%20/%20Rastijahti%2014-18.9&desc=&zoom=10&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Description: Klubbmäst./Seurojnmest. Brahe, Falken, Minken, PieHi
 - Plats: Larsmo sport st. (kl 16:30-18)
   Club: Brahe
