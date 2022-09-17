@@ -175,7 +175,7 @@ events:
   Club: Brahe
   Datum: 21-25.9 
   Id: 24
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7077257.914991465&e=290283.9023105451&title=SJ/RJ%2021.-25.9.&desc=kl/klo%2016:30-18&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
   Evenemang:
     Bild: images/Larsmo_logo.png
     Link: https://www.larsmo.fi
