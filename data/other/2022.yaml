@@ -16,8 +16,8 @@ events:
   Club: Kronan 
   Datum: 20.9
   Id: 3
-  Kartlink: 
-  Description: ""
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7068915.817698036&e=311931.6330115197&title=Nattcup/Y%C3%B6cup%20III%20opastus/v%C3%A4gv.&desc=&zoom=9&layers=%5B%7B%22id%22:2,%22opacity%22:100%7D%5D"
+  Description: "Start/lähtö 20:45-21:30"
 - Plats: Trullevi
   Id: 4
   Datum: 27.9
