@@ -3,11 +3,16 @@ events:
 - Plats: 
   Id: 1
   Datum: 12-16.4
-  Club: 
-  Kartlink: 
+  Club: Brahe
+  # Kartlink är en vägvisnings länk till plats för TC
+  Kartlink:
+  # Extra vägvisnings länk vid behov
+  Vagvisning:
+  # Evenemangs data med bild och länk. Ifall tomt ingen bild eller länk.
   Evenemang:
     Bild: 
     Link: 
+  # Extra text i sista kolumnen av programmet.
   Description:
 - Plats: 
   Id: 2
