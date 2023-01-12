@@ -1,10 +1,10 @@
 --- 
-Title: "Ohjelma 2022"
+Title: "Ohjelma 2023"
 ---
 
-# Rastijahti 2022
+# Rastijahti 2023
 
-{{< program "2022" >}}
+{{< program "2023" >}}
 
 # Järjestäjät 
 IF Brahe, IK Falken, IF Minken ja Pietarsaaren Hiihtäjät. 

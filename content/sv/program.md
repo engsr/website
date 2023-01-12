@@ -7,7 +7,7 @@ type: page
 # Program - Skärmjakten 2022
    
 
-{{< program "2022" >}}
+{{< program "2023" >}}
 
 
 # Arrangörer
