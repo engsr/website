@@ -31,8 +31,8 @@
         {{ else -}}
         {{ .Plats }}
         {{ end }}
-        <!-- extra links if provided -->
-        {{ if .Vagvisning }}
+        {{/* extra links if provided */}} 
+        {{ if .Vagvisning -}}
         <br/>
         <a href="{{.Vagvisning}}Vägvisning</a>"
         {{ end }}
