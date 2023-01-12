@@ -4,7 +4,7 @@ date: 2021-01-17T10:16:28+02:00
 type: page
 ---
 
-# Program - Skärmjakten 2022
+# Program - Skärmjakten 2023
    
 
 {{< program "2023" >}}
