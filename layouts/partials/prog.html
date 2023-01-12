@@ -40,7 +40,7 @@
       <td><a href="/{{ $year }}/{{ $.Scratch.Get "id" }}{{ $i }}_res.html">{{ i18n "resultat" . }}</a> <a href="/{{ $year  }}/{{ $.Scratch.Get "id" }}{{ $i }}_mel.html">{{ i18n "mellantid" . }}</a></td>
       <td>{{ if .Description }}{{ .Description }}{{ end }}</td>
       <td>{{ $host := .Evenemang }}
-        {{ if $host }}
+        {{ if $host.Link }}
       <a href="{{$host.Link}}"><img style="max-height:40px;max-width:200px" src="/{{ $host.Bild }}"> </a></td>
         {{ end }}
     </tr>
