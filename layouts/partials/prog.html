@@ -30,7 +30,13 @@
         <a href="{{.Kartlink}}">{{ .Plats }}</a>
         {{ else -}}
         {{ .Plats }}
-        {{ end }}</td>
+        {{ end }}
+        <!-- extra links if provided -->
+        {{ if .Vagvisning }}
+        <br/>
+        <a href="{{.Vagvisning}}Vägvisning</a>"
+        {{ end }}
+      </td>
       <td><a href="/{{ $year }}/{{ $.Scratch.Get "id" }}{{ $i }}_res.html">{{ i18n "resultat" . }}</a> <a href="/{{ $year  }}/{{ $.Scratch.Get "id" }}{{ $i }}_mel.html">{{ i18n "mellantid" . }}</a></td>
       <td>{{ if .Description }}{{ .Description }}{{ end }}</td>
       <td>{{ $host := .Evenemang }}
