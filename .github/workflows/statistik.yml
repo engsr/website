@@ -32,9 +32,9 @@ jobs:
     env:
       HUGO_VERSION: 0.108.0
     steps:
-      - name: Install Hugo CLI
+      - name: Install statistik CLI
         run: |
-          wget -O ${{ runner.temp }}/statistik https://github.com/Skarmjakten/statistik/releases/download/v0.1/ \
+          wget -O ${{ runner.temp }}/statistik https://github.com/Skarmjakten/statistik/releases/download/v0.1/statistik \
           && chmod +x ${{ runner.temp }}/statistik
       - name: Checkout
         uses: actions/checkout@v3
