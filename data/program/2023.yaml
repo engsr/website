@@ -41,7 +41,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Sundby
   Id: 5
   Datum: 10-14.5
   Club: Falken
@@ -77,7 +77,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Purmo
   Id: 9
   Datum: 7-11.6
   Club: Falken
@@ -113,7 +113,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Arbetsplatsberget
   Id: 13
   Datum: 5-9.7
   Club: Falken
@@ -203,7 +203,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Purmo, Sisbacka
   Id: 23
   Datum: 13-17.9
   Club: Falken
