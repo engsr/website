@@ -32,7 +32,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Lillsand
   Id: 4
   Datum: 3-7.5
   Club: Brahe
@@ -50,7 +50,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Bosund
   Id: 6
   Datum: 17-21.5
   Club: Brahe
@@ -68,7 +68,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Pörkenäs
   Id: 8
   Datum: 31.5-4.6
   Club: Brahe
@@ -95,7 +95,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Ådö
   Id: 11
   Datum: 21-25.6
   Club: Brahe
@@ -104,7 +104,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Larsmo sp stuga
   Id: 12
   Datum: 28.6-2.7
   Club: Brahe
@@ -122,7 +122,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Lövbackavägens slut
   Id: 14
   Datum: 12-16.7
   Club: Brahe
@@ -131,7 +131,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Östanpå
   Id: 15
   Datum: 19-23.7
   Club: Brahe
@@ -158,7 +158,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Grannabba/Ruusulehto
   Id: 18
   Datum: 9-13.8
   Club: Piehi
@@ -176,7 +176,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Vallan
   Id: 20
   Datum: 23-27.8
   Club: Brahe
@@ -194,7 +194,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Fränsviken västra
   Id: 22
   Datum: 6-10.9
   Club: Brahe
@@ -212,7 +212,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Sandåsen
   Id: 24
   Datum: 20-24.9
   Club: Brahe
