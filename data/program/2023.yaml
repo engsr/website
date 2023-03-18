@@ -1,6 +1,6 @@
 year: "2023"
 events:
-- Plats: Bonäs
+- Plats: Bonäs/Majaniemi
   Id: 1
   Datum: 12-16.4
   Club: Brahe
@@ -23,7 +23,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Gamla Hamn
+- Plats: Gamla Hamn/Vanha Satama
   Id: 3
   Datum: 26-30.4
   Club: Brahe
@@ -32,7 +32,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Lillsand
+- Plats: Lillsand/Pikkuhiekka
   Id: 4
   Datum: 3-7.5
   Club: Brahe
@@ -104,7 +104,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Larsmo sp stuga
+- Plats: Larsmo sportstuga
   Id: 12
   Datum: 28.6-2.7
   Club: Brahe
@@ -122,7 +122,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Lövbackavägens slut
+- Plats: Lövbackavägens slut/pääty
   Id: 14
   Datum: 12-16.7
   Club: Brahe
@@ -131,7 +131,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Östanpå
+- Plats: Östanpå/Itälä
   Id: 15
   Datum: 19-23.7
   Club: Brahe
@@ -194,7 +194,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Fränsviken västra
+- Plats: Fränsviken västra/länsi
   Id: 22
   Datum: 6-10.9
   Club: Brahe
