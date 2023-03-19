@@ -14,7 +14,7 @@ events:
     Link: 
   # Extra text i sista kolumnen av programmet.
   Description:
-- Plats: 
+- Plats: Soklotheidi Kovjoki
   Id: 2
   Datum: 18-22.4
   Club: Minken
@@ -59,7 +59,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Brännon
   Id: 7
   Datum: 24-28.5
   Club: Minken
@@ -86,7 +86,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Monå
   Id: 10
   Datum: 14-18.6
   Club: Minken
@@ -140,7 +140,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Vexala
   Id: 16
   Datum: 26-30.7
   Club: Minken
@@ -167,7 +167,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Ransvik
   Id: 19
   Datum: 16-20.8
   Club: Minken
