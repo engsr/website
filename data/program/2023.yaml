@@ -5,13 +5,13 @@ events:
   Datum: 12-16.4
   Club: Brahe
   # Kartlink är en vägvisnings länk till plats för TC
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7067338.304928317&e=286524.73868632363&title=SJ/RJ%2012.-16.4.&desc=P+kartor/kartat&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   # Extra vägvisnings länk vid behov
   Vagvisning:
   # Evenemangs data med bild och länk. Ifall tomt ingen bild eller länk.
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/Bjh_logo.png
+    Link: https://www.bjh.fi
   # Extra text i sista kolumnen av programmet.
   Description:
 - Plats: Soklotheidi Kovjoki
