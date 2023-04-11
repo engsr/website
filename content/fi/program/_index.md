@@ -40,5 +40,6 @@ IF Minken   Sören Strandvall    050 356 0969
 
 # Tulokset
 Keskiviikkotapahtuman tulokset tällä sivustolla.
-Erillisiä tuloslistoja ei julkaista omatoimijärjestelyissä.
 
+# Livelox
+Lataa reittisi Livelox palveluun www.livelox.com.
