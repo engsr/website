@@ -45,4 +45,6 @@ IF Minken   Sören Strandvall    050 356 0969
 
 # Resultat
 På onsdagskvällarna på denna sida.
-Inga resultatlistor från självservicen.
+
+# Livelox
+Ladda upp din rutt i Livelox www.livelox.com
