@@ -13,7 +13,7 @@ events:
     Bild: images/Bjh_logo.png
     Link: https://www.bjh.fi
   # Extra text i sista kolumnen av programmet.
-  Description: Ladda upp rutt i Livelox
+  Description: Ladda upp din rutt/Lataa reittisi Livelox.
 - Plats: Nykarleby östra
   Id: 2
   Datum: 19-23.4
