@@ -42,8 +42,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/JAKE_logo.png
+    Link: https://www.jakerakennus.fi/sv/framsida/
   Description:
 - Plats: Sundby
   Id: 5
