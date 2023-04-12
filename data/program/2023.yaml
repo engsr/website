@@ -82,8 +82,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/NCE_logo.png
+    Link: https://nce.fi/sv/
   Description:
 - Plats: Purmo
   Id: 9
