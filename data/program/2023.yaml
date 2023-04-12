@@ -62,8 +62,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/BY.png
+    Link: https://www.balticyachts.fi
   Description:
 - Plats: Brännon
   Id: 7
