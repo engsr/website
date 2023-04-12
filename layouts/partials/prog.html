@@ -6,6 +6,7 @@
     <th>{{ i18n "club" . }}</th>
     <th>{{ i18n "place" .  }}</th>
     <th>{{ i18n "resultat" . }}</th>
+    <th>Livelox</th>
     <th>{{ i18n "description" }}</th>
     <th>{{ i18n "host" . }}</th>
     </tr>
@@ -38,6 +39,7 @@
         {{ end }}
       </td>
       <td><a href="/{{ $year }}/{{ $.Scratch.Get "id" }}{{ $i }}_res.html">{{ i18n "resultat" . }}</a> <a href="/{{ $year  }}/{{ $.Scratch.Get "id" }}{{ $i }}_mel.html">{{ i18n "mellantid" . }}</a></td>
+      <td>{{ if .Livelox }}{{ .Livelox }}{{ end }}</td>
       <td>{{ if .Description }}{{ .Description }}{{ end }}</td>
       <td>{{ $host := .Evenemang }}
         {{ if $host.Link }}
