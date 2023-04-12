@@ -32,8 +32,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/Hartman_logo.png
+    Link: https://www.hartman.fi/sv/
   Description:
 - Plats: Lillsand/Pikkuhiekka
   Id: 4
