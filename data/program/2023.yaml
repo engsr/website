@@ -14,7 +14,7 @@ events:
     Bild: images/Bjh_logo.png
     Link: https://www.bjh.fi
   # Extra text i sista kolumnen av programmet.
-  Description: Ladda upp din rutt/Lataa reittisi.
+  Description: 
 - Plats: Nykarleby östra
   Id: 2
   Datum: 19-23.4
@@ -29,7 +29,7 @@ events:
   Id: 3
   Datum: 26-30.4
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7069026.735987097&e=286738.6853258675&title=SJ/RJ%2026.-30.4.&desc=&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/Hartman_logo.png
