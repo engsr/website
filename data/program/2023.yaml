@@ -39,7 +39,7 @@ events:
   Id: 4
   Datum: 3-7.5
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7067258.208282473&e=279900.2916870118&title=SJ/RJ%203.-7.5.2023&desc=TC%20kartor/kartat&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/JAKE_logo.png
