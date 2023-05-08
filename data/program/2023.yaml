@@ -49,12 +49,12 @@ events:
   Id: 5
   Datum: 10-14.5
   Club: Falken
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7056818.372560779&e=285289.5093339751&title=Sk%C3%A4rmjakten/Rastijahti%2010-13.5&desc=&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: 
     Link: 
-  Description:
+  Description: 
 - Plats: Bosund
   Id: 6
   Datum: 17-21.5
