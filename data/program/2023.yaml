@@ -59,7 +59,7 @@ events:
   Id: 6
   Datum: 17-21.5
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7083455.9336680705&e=295922.1730944654&title=SJ/RJ%2017.-21.5.&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/BY.png
