@@ -153,7 +153,7 @@ events:
   Kartlink: 
   Evenemang:
     Bild: images/jbb_logo.png
-    Link: 
+    Link: https://www.jbb.fi/sv/
   Description:
 - Plats: Vexala
   Id: 16
