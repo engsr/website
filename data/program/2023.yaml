@@ -79,7 +79,7 @@ events:
   Id: 8
   Datum: 31.5-4.6
   Club: Brahe
-  Kartlink: https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7063973.181028135&e=278010.3149605791&title=SJ%20/%20RJ%2031.5%20-%204.6.2023&desc=P%20och/ja%20kartor/kartat&zoom=12&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z
+  Kartlink: https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7063973.181028135&e=278010.3149605791&title=SJ%20/%20RJ%2031.5%20-%204.6.2023&desc=P%20och/ja%20kartor/kartat&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z
   Livelox: 
   Evenemang:
     Bild: images/NCE_logo.png
