@@ -112,8 +112,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: Smartplan
+    Link: "https://www.smartplan.fi/sv/"
   Description:
 - Plats: Larsmo sportstuga
   Id: 12
