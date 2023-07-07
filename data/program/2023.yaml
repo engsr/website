@@ -139,7 +139,7 @@ events:
   Id: 14
   Datum: 12-16.7
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7065987.07772744&e=280774.1203213584&title=12.7.%20v%C3%A4gvisning%20b%C3%B6rjar%20/opastus%20alkaa&desc=&zoom=8&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/Amada_logo.png
