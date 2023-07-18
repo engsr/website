@@ -149,7 +149,7 @@ events:
   Id: 15
   Datum: 19-23.7
   Club: Brahe
-  Livelox: 
+  Livelox: "https://www.livelox.com/Events/Show/110173/Skarmjakten-Ostanpa-Rastijahti-Itala"
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7069980.175471282&e=288696.80667914357&title=SJ/RJ%2019.-23.7.&desc=kartor/kartat&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Evenemang:
     Bild: images/jbb_logo.png
