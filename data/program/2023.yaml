@@ -144,7 +144,7 @@ events:
   Evenemang:
     Bild: images/Amada_logo.png
     Link: http://www.https://amada-automation.eu
-  Description: Vid slutet av vägen, tien loppupäässä!
+  Description: 
 - Plats: Östanpå/Itälä
   Id: 15
   Datum: 19-23.7
@@ -154,7 +154,7 @@ events:
   Evenemang:
     Bild: images/jbb_logo.png
     Link: https://www.jbb.fi/sv/
-  Description: Parkering/pysäköinti ons/ke 19.7. Japrotekin P:llä
+  Description: 
 - Plats: Vexala
   Id: 16
   Datum: 26-30.7
@@ -179,7 +179,7 @@ events:
   Id: 18
   Datum: 9-13.8
   Club: Piehi
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7067154.229260195&e=289397.0842715789&title=SJ/RJ%209.-13.8.&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: 
