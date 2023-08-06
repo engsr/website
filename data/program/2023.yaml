@@ -202,8 +202,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/ClimaPro_Logo.png
+    Link: https://www.larsmoror.fi/
   Description:
 - Plats: Forsby, Kockas
   Id: 21
