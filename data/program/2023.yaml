@@ -199,7 +199,7 @@ events:
   Id: 20
   Datum: 23-27.8
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7065728.999877932&e=282721.6667480469&title=SJ/RJ%2023.-27.8.2023&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/ClimaPro_Logo.png
