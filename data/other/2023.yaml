@@ -1,0 +1,26 @@
+year: "2023"
+events:
+- Plats: Fränsviken östra
+  Id: 1
+  Datum: 5.9
+  Club: Brahe
+  Kartlink: 
+  Description: 
+- Plats: Purmo, Sisbacka
+  Club: Falken
+  Datum: 12.9
+  Description: 
+  Kartlink: 
+  Id: 2
+- Plats: Gråstein
+  Club: Botnia
+  Datum: 19.9
+  Id: 3
+  Kartlink: 
+  Description: 
+- Plats: Rödsö fd skola
+  Id: 4
+  Datum: 26.9
+  Club: KoS
+  Kartlink: 
+  Description: 
