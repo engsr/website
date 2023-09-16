@@ -239,7 +239,7 @@ events:
   Id: 24
   Datum: 20-24.9
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7062297.037563784&e=285648.1902218075&title=SJ/RJ%2020.-24.9&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/JNT_logo.png
