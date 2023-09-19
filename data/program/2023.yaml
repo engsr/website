@@ -194,7 +194,7 @@ events:
   Evenemang:
     Bild: 
     Link: 
-  Description: Banor av långdistans-typ. Pitkänmatkan tyyppiset radat.
+  Description: 
 - Plats: Vallan
   Id: 20
   Datum: 23-27.8
@@ -240,8 +240,8 @@ events:
   Datum: 20-24.9
   Club: Brahe
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7062297.037563784&e=285648.1902218075&title=SJ/RJ%2020.-24.9&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
-  Livelox: 
+  Livelox: "https://www.livelox.com/Events/Show/114044/Skarmjakten-Rastijahti-Klubbmasterskap-Seuramestaruus-Sandas"
   Evenemang:
     Bild: images/JNT_logo.png
     Link: https://www.jnt.fi
-  Description: "kl 16:30-18, klubbmästerskap Brahe, Falken, Minken, PieHi"
+  Description: "kl 16:30-18:30, klubbmästerskap Brahe, Falken, Minken, PieHi"
