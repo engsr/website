@@ -1,13 +1,13 @@
 ---
 title: "Program"
-date: 2021-01-17T10:16:28+02:00
+date: 2024-02-04T10:16:28+02:00
 type: page
 ---
 
-# Program - Skärmjakten 2023
+# Program - Skärmjakten 2024
    
 
-{{< program "2023" >}}
+{{< program "2024" >}}
 
 
 # Arrangörer
@@ -25,9 +25,9 @@ Onsdagar kl 17-19 med tidtagning, självservice torsdag till söndag kväll kl 1
 # Avgift 
 
 Över 16 år 6 €/gång. På onsdagsevenemangen på plats (kontant, Mobilepay, E-passi, Smartum).
-Självservice: Till Skärmjaktens gemensamma bankkonto, FI10 5567 0720 1925 11. Vänligen använd referens 2202 (för Brahes arr), 3311 (Falken), 4433 (Minken) och 5005 (PieHi). E-passis Sporttipassi (mobilbetalning via app) kan användas. Sök upp "Skärmjakten/Rastijahti (59026)", följ anvisningarna och gör betalningen. 
+Självservice: Till respektive förenings gemensamma bankkonto, FI10 5567 0720 1925 11. Vänligen använd referens 2202 (för Brahes arr), 3311 (Falken), 4433 (Minken) och 5005 (PieHi). E-passis Sporttipassi (mobilbetalning via app) kan användas. Sök upp "Skärmjakten/Rastijahti (59026)", följ anvisningarna och gör betalningen. 
 Tyky-, Smartum och Tyhy (Jakobstadsnejden och Optima) motionssedlar går tyvärr inte att använda för självservice.
-Nyhet: För IF Brahes arrangemang kan även Mobilepay användas, sänd till kod "64057".
+Nyhet:  Även Mobilepay användas, för IF Brahes arrangemang kod "64057", Falkens "76485".
 
 # Info 
 
