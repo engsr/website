@@ -25,7 +25,7 @@ events:
     Bild: 
     Link:
   Description: 
-- Plats: 
+- Plats: Norra industriområdet  
   Id: 3
   Datum: 1-5.5
   Club: Minken 
@@ -35,7 +35,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Norra industriområdet 
+- Plats:  
   Id: 4
   Datum: 8-12.5
   Club: Brahe
@@ -75,7 +75,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Nurk
   Id: 8
   Datum: 5-9.6
   Club: Minken
@@ -85,7 +85,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Nurk
+- Plats: 
   Id: 9
   Datum: 12-16.6
   Club: Brahe
@@ -115,7 +115,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Andrasjön Tullmagasinet
   Id: 12
   Datum: 3-7.7
   Club: Minken
@@ -125,7 +125,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Andrasjön Tullmagasinet
+- Plats: 
   Id: 13
   Datum: 10-14.7
   Club: Brahe
@@ -185,7 +185,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Brännon
   Id: 19
   Datum: 21-25.8
   Club: Minken
@@ -195,7 +195,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: Brännon
+- Plats: 
   Id: 20
   Datum: 28-31.8
   Club: Falken
@@ -215,7 +215,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Stjärnhallen
   Id: 22
   Datum: 11-15.9
   Club: Minken
@@ -225,7 +225,7 @@ events:
     Bild: 
     Link: 
   Description: "Start 16:30 - 18:00, Klubbmästerskap"
-- Plats: Stjärnhallen
+- Plats: 
   Id: 23
   Datum: 18-22.9
   Club: Falken
