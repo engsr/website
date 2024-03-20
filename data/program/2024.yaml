@@ -35,7 +35,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Norra industriområdet 
   Id: 4
   Datum: 8-12.5
   Club: Brahe
@@ -85,7 +85,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Nurk
   Id: 9
   Datum: 12-16.6
   Club: Brahe
@@ -125,7 +125,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Andrasjön Tullmagasinet
   Id: 13
   Datum: 10-14.7
   Club: Brahe
@@ -195,7 +195,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Brännon
   Id: 20
   Datum: 28-31.8
   Club: Falken
@@ -225,7 +225,7 @@ events:
     Bild: 
     Link: 
   Description: "Start 16:30 - 18:00, Klubbmästerskap"
-- Plats: 
+- Plats: Stjärnhallen
   Id: 23
   Datum: 18-22.9
   Club: Falken
