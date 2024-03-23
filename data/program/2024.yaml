@@ -1,6 +1,6 @@
 year: "2024"
 events:
-- Plats: 
+- Plats: Gamla Hamn
   Id: 1
   Datum: 17-21.4
   Club: Brahe
@@ -35,7 +35,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats:  
+- Plats: Lillsand
   Id: 4
   Datum: 8-12.5
   Club: Brahe
@@ -45,7 +45,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Bastuhamn
   Id: 5
   Datum: 15-19.5
   Club: Brahe
@@ -65,7 +65,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Sandåsen
   Id: 7
   Datum: 29.5-2.6
   Club: Brahe
@@ -85,7 +85,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Fränsviken västra
   Id: 9
   Datum: 12-16.6
   Club: Brahe
@@ -105,7 +105,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Lussilund
   Id: 11
   Datum: 26-30.6
   Club: Brahe
@@ -125,7 +125,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Ådö
   Id: 13
   Datum: 10-14.7
   Club: Brahe
@@ -145,7 +145,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Larsmo sp stuga
   Id: 15
   Datum: 24-28.7
   Club: Brahe
@@ -155,7 +155,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Storsand
   Id: 16
   Datum: 31.7-4.8
   Club: Brahe
@@ -165,7 +165,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Grannabba/Ruusulehto
+- Plats: PieHis/n stuga/tupa
   Id: 17
   Datum: 7-11.8
   Club: PieHi
@@ -175,7 +175,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Bosund, norra
   Id: 18
   Datum: 14-18.8
   Club: Brahe
@@ -205,7 +205,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Degernäs
   Id: 21
   Datum: 4-8.9
   Club: Brahe
@@ -235,7 +235,7 @@ events:
     Bild: 
     Link: 
   Description: "Start 16:30 - 18:00"
-- Plats: 
+- Plats: Pörkenäs
   Id: 24
   Datum: 25-29.9
   Club: Brahe
