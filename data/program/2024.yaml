@@ -15,7 +15,7 @@ events:
     Link: 
   # Extra text i sista kolumnen av programmet.
   Description: 
-- Plats: 
+- Plats: Ytteresse
   Id: 2
   Datum: 24-28.4
   Club: Falken 
@@ -55,7 +55,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Sundby
   Id: 6
   Datum: 22-26.5
   Club: Falken
@@ -95,7 +95,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Forsby-Bennäs 
   Id: 10
   Datum: 19-23.6
   Club: Falken
@@ -135,7 +135,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Purmo
   Id: 14
   Datum: 17-21.7
   Club: Falken
@@ -195,7 +195,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Arbetsplatsberget 
   Id: 20
   Datum: 28-31.8
   Club: Falken
@@ -225,7 +225,7 @@ events:
     Bild: 
     Link: 
   Description: "Start 16:30 - 18:00, Klubbmästerskap"
-- Plats: 
+- Plats: Lappfors 
   Id: 23
   Datum: 18-22.9
   Club: Falken
