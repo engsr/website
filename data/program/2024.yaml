@@ -12,7 +12,7 @@ events:
   # Evenemangs data med bild och länk. Ifall tomt ingen bild eller länk.
   Evenemang:
     Bild: images/Solving_Logo_horisontell_220mm.jpg
-    Link: www.solving.com
+    Link: http://www.solving.com
   # Extra text i sista kolumnen av programmet.
   Description: 
 - Plats: Ytteresse
