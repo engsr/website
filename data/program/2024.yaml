@@ -5,7 +5,7 @@ events:
   Datum: 17-21.4
   Club: Brahe
   # Kartlink är en vägvisnings länk till plats för TC
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7069024.174778857&e=286769.5419982967&title=SJ%2FRJ%2017.4.2024&desc=&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   # Extra vägvisnings länk vid behov
   Vagvisning:
