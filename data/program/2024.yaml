@@ -11,7 +11,7 @@ events:
   Vagvisning:
   # Evenemangs data med bild och länk. Ifall tomt ingen bild eller länk.
   Evenemang:
-    Bild: images/Solving_Logo_horisontell_220mm.jpg
+    Bild: images/Solving_wide_logo_Est1977.jpg
     Link: https://www.solving.com
   # Extra text i sista kolumnen av programmet.
   Description: 
