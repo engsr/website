@@ -52,8 +52,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/ClimaPro_Logo.png
+    Link: https://www.climapro.fi/
   Description: 
 - Plats: Sundby
   Id: 6
