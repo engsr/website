@@ -19,12 +19,12 @@ events:
   Id: 2
   Datum: 24-28.4
   Club: Falken 
-  Kartlink: 
+  Kartlink: "https://app.karttaselain.fi/map/X3Wkw1hSzd2rFWj"
   Livelox: 
   Evenemang:
     Bild: 
     Link:
-  Description: 
+  Description: Sprintbetonat. Självatändig orientering tors/fre efter kl. 17
 - Plats: Norra industriområdet  
   Id: 3
   Datum: 1-5.5
