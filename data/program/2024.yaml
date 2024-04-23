@@ -162,8 +162,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/Bjh_logo.png
+    Link: https://bjh.fi/
   Description:
 - Plats: PieHis/n stuga/tupa
   Id: 17
