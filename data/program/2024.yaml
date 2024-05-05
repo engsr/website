@@ -39,7 +39,7 @@ events:
   Id: 4
   Datum: 8-12.5
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7067584.596272183&e=279834.7401507283&title=SJ%2FRJ%208.-12.5.2024&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/NCE_Logo.png
