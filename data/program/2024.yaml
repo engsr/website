@@ -133,7 +133,7 @@ events:
   Livelox: 
   Evenemang:
     Bild: images/Conalincars.jpg
-    Link: 
+    Link: https://conalin.com/sv
   Description:
 - Plats: Purmo
   Id: 14
@@ -213,7 +213,7 @@ events:
   Livelox: 
   Evenemang:
     Bild: images/Amada_logo.png
-    Link: 
+    Link: https://amada-automation.eu/
   Description:
 - Plats: Stjärnhallen
   Id: 22
