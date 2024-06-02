@@ -79,7 +79,7 @@ events:
   Id: 8
   Datum: 5-9.6
   Club: Minken
-  Kartlink:
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7051685.024786942&e=279257.42055095173&title=Sk%C3%A4rmjakten%20%2F%20Rastijahti%205-9.6&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: 
