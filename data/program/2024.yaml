@@ -89,7 +89,7 @@ events:
   Id: 9
   Datum: 12-16.6
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7085601.395213516&e=290818.4030001901&title=SJ%2FRJ%2012.-16.6.2024&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/Nynas_logo.png 
