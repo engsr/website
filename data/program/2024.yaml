@@ -95,16 +95,16 @@ events:
     Bild: images/Nynas_logo.png 
     Link: https://www.byggnadsnynas.fi/
   Description: Ny karta/uusi kartta!
-- Plats: Forsby-Bennäs 
+- Plats: Forsby
   Id: 10
   Datum: 19-23.6
   Club: Falken
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7054240.658773867&e=297916.25045347074&title=Sk%C3%A4rmjakten%20%2F%20Rastijahti%2019-23.6%20&desc=&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: 
     Link: 
-  Description:
+  Description: "Vägvisning från Kullbergsvägen"
 - Plats: Lussilund
   Id: 11
   Datum: 26-30.6
