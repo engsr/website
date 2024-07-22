@@ -149,7 +149,7 @@ events:
   Id: 15
   Datum: 24-28.7
   Club: Brahe
-  Livelox: 
+  Livelox: "https://www.livelox.com/Events/Show/134002/Skarmjakten-Larsmo-sportstuga-Rastijahti"
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7077201.042478425&e=290323.8073825904&title=SJ%2FRJ%2024.-28.7.2024&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Evenemang:
     Bild: images/Larsmo Kommun_Logo.png  
