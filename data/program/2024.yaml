@@ -159,7 +159,7 @@ events:
   Id: 16
   Datum: 31.7-4.8
   Club: Brahe
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7066410.997873643&e=279373.62274064816&title=SJ%2FRJ%2031.7-4.8.2024&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: images/Bjh_logo.png
