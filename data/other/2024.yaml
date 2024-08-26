@@ -20,7 +20,7 @@ events:
   Description: 
 - Plats: 
   Id: 4
-  Datum: 1.10
+  Datum: "1.10"
   Club: Minken
   Kartlink: ""
   Description: 
