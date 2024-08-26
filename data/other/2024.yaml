@@ -1,0 +1,26 @@
+year: "2024"
+events:
+- Plats: 
+  Id: 1
+  Datum: 10.9
+  Club: Kronan
+  Kartlink: ""
+  Description: ""
+- Plats: Laajalahti/Bredviken
+  Club: KoS
+  Datum: 12.9
+  Description: 
+  Kartlink: 
+  Id: 2
+- Plats: Pörkenäs
+  Club: Brahe
+  Datum: 24.9
+  Id: 3
+  Kartlink: 
+  Description: 
+- Plats: 
+  Id: 4
+  Datum: 1.10
+  Club: Minken
+  Kartlink: ""
+  Description: 
