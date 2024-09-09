@@ -221,8 +221,8 @@ events:
   Club: Minken
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7051450.91613089&e=276987.7698808988&title=SJ%2011-15.9.2024&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
-  Evenemang: "Parkera vid Stjärnhallens framsida. Start vid grillplatsen bakom Sjärnhallen."
-    Bild: 
+  Evenemang: 
+    Bild: "Parkera vid Stjärnhallens framsida. Start vid grillplatsen bakom Sjärnhallen."
     Link: 
   Description: "Start 16:30 - 18:00, Klubbmästerskap"
 - Plats: Lappfors 
