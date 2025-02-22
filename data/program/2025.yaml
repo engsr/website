@@ -1,0 +1,247 @@
+year: "2024"
+events:
+- Plats: Ytteresse 
+  Id: 1
+  Datum: 16-20.4
+  Club: Falken
+  # Kartlink är en vägvisnings länk till plats för TC
+  Kartlink: 
+  Livelox: 
+  # Extra vägvisnings länk vid behov
+  Vagvisning:
+  # Evenemangs data med bild och länk. Ifall tomt ingen bild eller länk.
+  Evenemang:
+    Bild: 
+    Link: 
+  # Extra text i sista kolumnen av programmet.
+  Description: 
+- Plats: 
+  Id: 2
+  Datum: 23-27.4
+  Club: Brahe 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link:
+  Description: 
+- Plats: 
+  Id: 3
+  Datum: 30.4-4.5
+  Club: Minken 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
+- Plats: 
+  Id: 4
+  Datum: 7-11.5
+  Club: Brahe
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: 
+  Id: 5
+  Datum: 14-18.5
+  Club: Brahe
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
+- Plats: 
+  Id: 6
+  Datum: 21-25.5
+  Club: Minken 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: 
+  Id: 7
+  Datum: 28.5-1.6
+  Club: Brahe
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: Lepplax 
+  Id: 8
+  Datum: 4-8.6
+  Club: Falken 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: 
+  Id: 9
+  Datum: 11-15.6
+  Club: Brahe
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
+- Plats: 
+  Id: 10
+  Datum: 18-22.6
+  Club: Minken 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
+- Plats: Lussilund
+  Id: 12
+  Datum: 25-29.6
+  Club: Brahe
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: 
+  Id: 12
+  Datum: 2-6.7
+  Club: Falken 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: 
+  Id: 13
+  Datum: 9-13.7
+  Club: Brahe
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: 
+  Id: 14
+  Datum: 16-20.7
+  Club: Minken 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
+- Plats: 
+  Id: 15
+  Datum: 23-27.7
+  Club: Brahe
+  Livelox: 
+  Kartlink: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
+- Plats: 
+  Id: 16
+  Datum: 30.7-3.8
+  Club: Falken 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: Östanpå
+  Id: 17
+  Datum: 6-10.8
+  Club: PieHi
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: 
+  Id: 18
+  Datum: 13-17.8
+  Club: Brahe
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
+- Plats: 
+  Id: 19
+  Datum: 20-24.8
+  Club: Minken
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
+- Plats: 
+  Id: 20
+  Datum: 27-30.8
+  Club: Brahe 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description:
+- Plats: 
+  Id: 21
+  Datum: 3-7.9
+  Club: Falken 
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: Klubbmästerskap
+- Plats: 
+  Id: 22
+  Datum: 10-14.9
+  Club: Minken
+  Kartlink: 
+  Livelox: 
+  Evenemang: 
+    Bild: 
+    Link: 
+  Description: 
+- Plats: 
+  Id: 23
+  Datum: 17-21.9
+  Club: Falken
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: "Start 16:30 - 18:00"
+- Plats: 
+  Id: 24
+  Datum: 24-28.9
+  Club: Brahe
+  Kartlink: 
+  Livelox: 
+  Evenemang:
+    Bild: 
+    Link: 
+  Description: 
