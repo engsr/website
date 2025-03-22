@@ -25,7 +25,7 @@ events:
     Bild: 
     Link:
   Description: 
-- Plats: 
+- Plats: Bastuhamn
   Id: 3
   Datum: 30.4-4.5
   Club: Minken 
@@ -45,7 +45,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Lillsand
   Id: 5
   Datum: 14-18.5
   Club: Minken
@@ -55,7 +55,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Larsmo sportstuga
   Id: 6
   Datum: 21-25.5
   Club: Brahe 
@@ -65,7 +65,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Larsmo sportstuga
+- Plats: Pörkenäs
   Id: 7
   Datum: 28.5-1.6
   Club: Brahe
