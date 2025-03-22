@@ -85,7 +85,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Bosund
   Id: 9
   Datum: 11-15.6
   Club: Brahe
@@ -105,7 +105,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Fränsviken, västra
   Id: 12
   Datum: 25-29.6
   Club: Brahe
@@ -145,7 +145,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Ådö
   Id: 15
   Datum: 23-27.7
   Club: Brahe
@@ -175,7 +175,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Vallan
   Id: 18
   Datum: 13-17.8
   Club: Brahe
@@ -215,10 +215,10 @@ events:
     Bild: 
     Link: 
   Description: Klubbmästerskap
-- Plats: 
+- Plats: Fränsviken, östra
   Id: 22
   Datum: 10-14.9
-  Club: Minken
+  Club: Brahe
   Kartlink: 
   Livelox: 
   Evenemang: 
@@ -235,7 +235,7 @@ events:
     Bild: 
     Link: 
   Description: "Start 16:30 - 18:00"
-- Plats: 
+- Plats: Gamla Hamn
   Id: 24
   Datum: 24-28.9
   Club: Brahe
