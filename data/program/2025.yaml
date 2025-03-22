@@ -48,7 +48,7 @@ events:
 - Plats: 
   Id: 5
   Datum: 14-18.5
-  Club: Brahe
+  Club: Minken
   Kartlink: 
   Livelox: 
   Evenemang:
@@ -58,14 +58,14 @@ events:
 - Plats: 
   Id: 6
   Datum: 21-25.5
-  Club: Minken 
+  Club: Brahe 
   Kartlink: 
   Livelox: 
   Evenemang:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Larsmo sportstuga
   Id: 7
   Datum: 28.5-1.6
   Club: Brahe
