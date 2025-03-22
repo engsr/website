@@ -15,7 +15,7 @@ events:
     Link: 
   # Extra text i sista kolumnen av programmet.
   Description: 
-- Plats: 
+- Plats: Bastuhamn
   Id: 2
   Datum: 23-27.4
   Club: Brahe 
@@ -25,7 +25,7 @@ events:
     Bild: 
     Link:
   Description: 
-- Plats: Bastuhamn
+- Plats: 
   Id: 3
   Datum: 30.4-4.5
   Club: Minken 
@@ -35,7 +35,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Lillsand
   Id: 4
   Datum: 7-11.5
   Club: Brahe
@@ -45,7 +45,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: Lillsand
+- Plats: 
   Id: 5
   Datum: 14-18.5
   Club: Minken
@@ -224,7 +224,7 @@ events:
   Evenemang: 
     Bild: 
     Link: 
-  Description: 
+  Description: "Start 16:30 - 18:00"
 - Plats: 
   Id: 23
   Datum: 17-21.9
@@ -244,4 +244,4 @@ events:
   Evenemang:
     Bild: 
     Link: 
-  Description: 
+  Description: "Start 16:30 - 18:00"
