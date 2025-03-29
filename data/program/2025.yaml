@@ -115,7 +115,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Purmo
   Id: 12
   Datum: 2-6.7
   Club: Falken 
@@ -155,7 +155,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Kassnäs 
   Id: 16
   Datum: 30.7-3.8
   Club: Falken 
@@ -205,7 +205,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Sundby
   Id: 21
   Datum: 3-7.9
   Club: Falken 
@@ -225,7 +225,7 @@ events:
     Bild: 
     Link: 
   Description: "Start 16:30 - 18:00"
-- Plats: 
+- Plats: Lappfors
   Id: 23
   Datum: 17-21.9
   Club: Falken
