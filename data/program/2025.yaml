@@ -25,7 +25,7 @@ events:
     Bild: 
     Link:
   Description: 
-- Plats: 
+- Plats: Kovjoki 
   Id: 3
   Datum: 30.4-4.5
   Club: Minken 
@@ -45,7 +45,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Östra banvallen
   Id: 5
   Datum: 14-18.5
   Club: Minken
@@ -95,7 +95,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Ransvik
   Id: 10
   Datum: 18-22.6
   Club: Minken 
@@ -135,7 +135,7 @@ events:
     Bild: 
     Link: 
   Description:
-- Plats: 
+- Plats: Stjärnfallet 
   Id: 14
   Datum: 16-20.7
   Club: Minken 
@@ -185,7 +185,7 @@ events:
     Bild: 
     Link: 
   Description: 
-- Plats: 
+- Plats: Skogsparken
   Id: 19
   Datum: 20-24.8
   Club: Minken
