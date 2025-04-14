@@ -5,7 +5,7 @@ events:
   Datum: 16-20.4
   Club: Falken
   # Kartlink är en vägvisnings länk till plats för TC
-  Kartlink: 
+  Kartlink: "https://app.karttaselain.fi/map/TCl63zSIdVg0d0l"
   Livelox: 
   # Extra vägvisnings länk vid behov
   Vagvisning:
