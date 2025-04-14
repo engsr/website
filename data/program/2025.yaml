@@ -19,10 +19,10 @@ events:
   Id: 2
   Datum: 23-27.4
   Club: Brahe 
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7076355.258868922&e=287838.7498830565&title=SJ%2FRJ%2023.-27.4.2025&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
-    Bild: 
+    Bild: images/Solving_wide_logo_Est1977.jpg
     Link:
   Description: 
 - Plats: Kovjoki 
