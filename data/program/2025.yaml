@@ -14,7 +14,7 @@ events:
     Bild: 
     Link: 
   # Extra text i sista kolumnen av programmet.
-  Description: 
+  Description: "sprint betonade banor"
 - Plats: Bastuhamn
   Id: 2
   Datum: 23-27.4
