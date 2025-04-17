@@ -6,7 +6,7 @@ events:
   Club: Falken
   # Kartlink är en vägvisnings länk till plats för TC
   Kartlink: "https://app.karttaselain.fi/map/TCl63zSIdVg0d0l"
-  Livelox: 
+  Livelox: "https://www.livelox.com/Events/Show/153759/Skarmjakten-Ytteresse"
   # Extra vägvisnings länk vid behov
   Vagvisning:
   # Evenemangs data med bild och länk. Ifall tomt ingen bild eller länk.
