@@ -202,8 +202,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/Jbb_logo.png
+    Link: https://www.jbb.fi/
   Description:
 - Plats: Humla
   Id: 21
