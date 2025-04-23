@@ -132,8 +132,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/Amada_logo.png
+    Link: https://amada-automation.eu/
   Description:
 - Plats: Stjärnfallet 
   Id: 14
