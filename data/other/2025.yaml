@@ -1,0 +1,26 @@
+year: "2025"
+events:
+- Plats: Fränsviken 
+  Id: 1
+  Datum: 9.9
+  Club: Kronan
+  Kartlink: ""
+  Description: ""
+- Plats: Lappfors
+  Club: Falken
+  Datum: 16.9
+  Description: 
+  Kartlink: 
+  Id: 2
+- Plats: Åsen, Djöstasvägen 
+  Club: Botnia
+  Datum: 23.9
+  Id: 3
+  Kartlink: 
+  Description: 
+- Plats: Houraatti, Lohtaja
+  Id: 4
+  Datum: 30.9
+  Club: KoS
+  Kartlink: 
+  Description: "Start/Lähtö 20.30-21.00"
