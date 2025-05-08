@@ -242,6 +242,6 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/NCE_Logo.png
+    Link: https://www.nce.fi  
   Description: "Start 16:30 - 18:00"
