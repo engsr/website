@@ -49,7 +49,7 @@ events:
   Id: 5
   Datum: 14-18.5
   Club: Minken
-  Kartlink: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=sv&share=customMarker&n=7051199.294231425&e=278945&title=SJ%20%2F%20RJ%2014-18.5.2025&desc=Avt%C3%A5nd%20till%20start%20ca%200%2C9%20km%0AL%C3%A4ht%C3%B6paikalle%20n.%200%2C9%20km&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Livelox: 
   Evenemang:
     Bild: 
