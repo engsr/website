@@ -92,8 +92,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/Nynas_logo.png
+    Link: https://www.byggnadsnynas.fi  
   Description: 
 - Plats: Ransvik
   Id: 10
