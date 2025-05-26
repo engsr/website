@@ -23,7 +23,7 @@ events:
   Livelox: "https://www.livelox.com/Events/Show/153974/Skarmjakten-Bastuhamn-Rastijahti"
   Evenemang:
     Bild: images/Solving_wide_logo_Est1977.jpg
-    Link: www.solving.com
+    Link: https://www.solving.com/sv/
   Description: 
 - Plats: Kovjoki 
   Id: 3
