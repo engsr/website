@@ -182,8 +182,8 @@ events:
   Kartlink: 
   Livelox: 
   Evenemang:
-    Bild: 
-    Link: 
+    Bild: images/JNT_logo.png
+    Link: https://www.jnt.fi
   Description: 
 - Plats: Skogsparken
   Id: 19
