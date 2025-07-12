@@ -139,8 +139,8 @@ events:
   Id: 14
   Datum: 16-20.7
   Club: Minken 
-  Kartlink: 
-  Livelox: 
+  Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7051313.563507587&e=276891.1635562239&title=SJ%2FRJ%2016.-20.7.2025&desc=&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
+  Livelox: "https://www.livelox.com/Events/Show/162296/Stjarnfallet"
   Evenemang:
     Bild: 
     Link: 
