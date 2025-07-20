@@ -149,7 +149,7 @@ events:
   Id: 15
   Datum: 23-27.7
   Club: Brahe
-  Livelox: 
+  Livelox: "https://www.livelox.com/Events/Show/163078/Skarmjakten-Ado-Rastijahti"
   Kartlink: "https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=7073320.500000002&e=284169.0013546107&title=SJ%2FRJ%2023.-27.7.2025&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z"
   Evenemang:
     Bild: images/Conalincars.jpg
